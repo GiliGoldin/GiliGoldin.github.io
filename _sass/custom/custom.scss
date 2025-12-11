@@ -1,1 +1,19 @@
+/* --- Gili's custom overrides --- */
+
+/* Soft blue sidebar background */
+.sidebar,
+.page__sidebar {
+  background-color: #e5f0ff !important;
+}
+
+/* Sidebar links hover effect */
+.page__sidebar a:hover,
+.sidebar a:hover {
+  background-color: #d2e4ff !important;
+}
+
+/* Sidebar title text color */
+.page__sidebar .nav__title {
+  color: #1b2f70 !important;
+}
 
