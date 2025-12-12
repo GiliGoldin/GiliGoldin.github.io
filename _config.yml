@@ -80,7 +80,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  HuggingFace      : "https://huggingface.co/GiliGold"
+  huggingface      : "https://huggingface.co/GiliGold"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
