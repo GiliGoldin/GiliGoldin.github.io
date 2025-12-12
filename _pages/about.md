@@ -18,7 +18,6 @@ Building on this foundation, my current research interests focus on fairness, bi
 ### Unveiling Affective Polarization Trends in Parliamentary Proceedings  
 **G. Goldin**, E. Rabinovich, S. Wintner  
 *Computational Linguistics*, accepted 2025.
-
 ---
 ### An Annotation Scheme for Factuality and Its Application to Parliamentary Proceedings  
 **G. Goldin**, S. Wigderson, E. Rabinovich, S. Wintner  
